@@ -1,0 +1,17 @@
+{
+  "name": "rpi-inflation",
+  "version": "1.0.0",
+  "main": "ReserveRPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "csvparser": "^0.1.4",
+    "ethers": "^6.13.2",
+    "express": "^4.21.0"
+  }
+}
